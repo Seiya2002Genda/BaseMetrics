@@ -312,5 +312,4 @@ Double Major: Computer Science × Marketing
 Creator of LUMISTIA / ClassMake / BaseMetrics  
 
 世界唯一の「野球 × AI × 物理 × Web」統合システムを開発中。
-# 📂 Project Structure
 
